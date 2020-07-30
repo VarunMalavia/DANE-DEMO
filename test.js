@@ -1,4 +1,2 @@
-function test(){
-	var a = 'Hello World!'
-	export {a};
-}
+var a = 'Hello World!'
+export {a};
